@@ -10,7 +10,7 @@ I am currently a physics PhD candidate at Boston University. I am a theoretical 
 
 I am also passionate in writing more efficient algorithms and learning the latest technologies (such as GPU) to speed up computing time. Aside from my Ph.D. work, I am interested in developing market simulations beyond the standard Monte Carlo simulation and automated Machine Learning based trading strategies. 
 
-#![Dev Image](http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG)
+<>![Dev Image](http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG)
 
 
 
