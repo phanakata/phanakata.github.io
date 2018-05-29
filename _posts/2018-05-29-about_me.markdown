@@ -4,7 +4,7 @@ title:  "Welcome!"
 date:   2018-05-29 11:00:00
 categories: bio
 highlight: true
-image: http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG
+image: https://www.google.com/search?q=paul+hanakata&client=firefox-b-1-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiU1_inmqvbAhWHwFkKHZMiBGQQ_AUIDCgD&biw=1243&bih=681#imgrc=P-nSkxDxXyajrM:
 ---
 I am a theoretical computational physicist studying fundamental properties of 2D materials and its novel applications. Based on numerical simulations, I have made effective models that are reliable, scalable, accurate, yet simple and require much less computing time. Currently, I am developing reinforcement learning and utilizing supervised machine learning methods to find the optimal design of stretchable electronic materials.
 
