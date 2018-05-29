@@ -4,7 +4,9 @@ title:  ""
 date:   2018-05-29 11:10:00
 categories: bio
 highlight: true
+
 ---
+
 ### Welcome!
 
 I am a theoretical computational physicist studying fundamental properties of 2D materials and its novel applications. Based on numerical simulations, I have made effective models that are reliable, scalable, accurate, yet simple and require much less computing time. Currently, I am developing reinforcement learning and utilizing supervised machine learning methods to find the optimal design of stretchable electronic materials.
