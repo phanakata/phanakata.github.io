@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Valley and ferroelectric switching in MX monochalcogenide monolayers (M=Sn, Ge; X=S, Ge)"
+title:  ""
 date:   2018-05-27 09:34:20
-categories: mdl
+categories: Valleytronics 
 author: Paul Hanakata
 ---
+## Valley and ferroelectric switching in MX monochalcogenide monolayers (M=Sn, Ge; X=S, Ge)
