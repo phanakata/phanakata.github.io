@@ -3,9 +3,8 @@ title: Paul Hanakata
 email: hanakata_at_bu.edu
 description: > # this means to ignore newlines until "baseurl:"
   I study electronic and mechanical properties of 2D materials beyond graphene using density functional theory methods.
-  
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://phanakata.github.io" # the base hostname & protocol for your site
+url: "http://phanakata.github.io/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 #google_play: 'GDGX'
@@ -19,12 +18,12 @@ post_type: highlight    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
 
 more_vert:
-  option1:
-    name: Cool Option 1
-    link: www.myawesomelink.com
-  option2:
-    name: Cool Option 2
-    link: www.myawesomelink.com
+  #option1:
+  #  name: Cool Option 1
+  #  link: www.myawesomelink.com
+  #option2:
+  #  name: Cool Option 2
+  #  link: www.myawesomelink.com
   option3:
     name: Cool Option 3
     link: www.myawesomelink.com
