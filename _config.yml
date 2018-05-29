@@ -35,3 +35,5 @@ disqus_shortname: 'gdgmanagua'
 markdown: kramdown
 
 #theme: jekyll-theme-cayman
+
+theme: jekyll-theme-cayman
