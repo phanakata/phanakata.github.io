@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "2D Rashba Ferroelectric"
-date:   2015-09-11 13:34:20
-categories: Material
+title:  "2D Rashba Ferroelectric Lead Chalcogenides"
+date:   2018-05-29 11:00:00
+categories: 2D Rashba 
 author: Paul Hanakata
 ---
 
