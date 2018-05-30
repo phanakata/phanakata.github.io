@@ -5,7 +5,7 @@ date:   2018-05-27 11:00:01
 categories: machinelearning
 author: Paul Hanakata
 ---
-##### Machine learning for 
+##### Machine learning for designing stretchable graphene kirigami
 Recently, there has been great interests in using patterned cuts, often called kirigami cuts, to design stretchable materials. 
 Introducing cuts allow thin materials (membranes) to extend reaching a fracture strain beyond its pristine value. 
 To date, there is no a definitive theory that explains such mechanism. 
