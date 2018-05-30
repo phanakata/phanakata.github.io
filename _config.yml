@@ -1,6 +1,7 @@
 # Site settings
 title: Paul Hanakata
 email: hanakata_at_bu.edu
+address: 590 Commonwealth Avenue, Boston, MA 02215
 description: > # this means to ignore newlines until "baseurl:"
   I study electronic and mechanical properties of 2D materials beyond graphene using density functional theory methods.
 baseurl: "" # the subpath of your site, e.g. /blog/
