@@ -3,14 +3,24 @@
 
     <div class="mdl-mega-footer--drop-down-section">
       <input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked>
-      <h1 class="mdl-mega-footer--heading">INFO</h1>
+      <h1 class="mdl-mega-footer--heading">EMAIL</h1>
       <ul class="mdl-mega-footer--link-list">
+	<li><a >{{ site.email }}</a></li>
         <!--
 	<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">subscribe via RSS</a></li>
 	-->
       </ul>
     </div>
+    <div class="mdl-mega-footer--drop-down-section">
+      <input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked>
+      <h1 class="mdl-mega-footer--heading">ADDRESS</h1>
+      <ul class="mdl-mega-footer--link-list">
+	<li><a >{{ site.address }}</a></li>
+      </ul>
+    </div>
+	  
+	  
 
     <div class="mdl-mega-footer--drop-down-section">
       <input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked>
