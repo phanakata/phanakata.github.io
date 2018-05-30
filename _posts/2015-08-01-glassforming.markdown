@@ -14,13 +14,9 @@ from electronic devices to artificial tissues.  These nanoconfined polymer mater
 This research was part of my undergraduate thesis work under supervison of <a href="http://fstarr.faculty.wesleyan.edu/" style="color:red"> Francis Starr </a> at the Physics Department, Wesleyan University. 
 We studied glassy and cooperative dyanmics of glass forming liquids under nanoconfinements using molecular dynamics. 
 There are three significant findings:
-* We developed a unifying framework connecting string-like cooperative motions and relaxation time <span style="color:#268cd7
-"> [1-3]</span>.
-* We established a direct relation between dynamical interfacial scales and the strings (and so the relaxation time)<span style="#268cd7
-"> [1, 2]</span>.
-* We developed a theory connecting the long relaxation time and the Debye-Waller factor which characterizes the dyanmics at a short time scale<span style="color:#268cd7
-"> [4]</span>.
-
+* We developed a unifying framework connecting string-like cooperative motions and relaxation time <span style="color:#268cd7">[1-3]</span>.
+* We established a direct relation between dynamical interfacial scales and the strings (and so the relaxation time)<span style="color:#268cd7"> [1, 2]</span>.
+* We developed a theory connecting the long relaxation time and the Debye-Waller factor which characterizes the dyanmics at a short time scale<span style="color:#268cd7"> [4]</span>.
 
 ***References***:
 
