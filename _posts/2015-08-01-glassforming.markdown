@@ -14,16 +14,16 @@ from electronic devices to artificial tissues.  These nanoconfined polymer mater
 This research was part of my undergraduate thesis work under supervison of Francis Starr at the Physics Department, Wesleyan University. 
 We studied glassy and cooperative dyanmics of glass forming liquids under nanoconfinements using molecular dynamics. 
 There are three significant findings:
-* We developed a unifying framework connecting string-like cooperative motions and relaxation time <span style="color:red">[1-3]</span>.
-* We established a direct relation between dynamical interfacial scales and the strings (and so the relaxation time)<span style="color:red">[1, 2]</span>.
-* We developed a theory connecting the long relaxation time and the Debye-Waller factor which characterizes the dyanmics at a short time scale<span style="color:red">[4]</span>.
+* We developed a unifying framework connecting string-like cooperative motions and relaxation time <span style="color:#48e1d3"> [1-3]</span>.
+* We established a direct relation between dynamical interfacial scales and the strings (and so the relaxation time)<span style="color:#48e1d3"> [1, 2]</span>.
+* We developed a theory connecting the long relaxation time and the Debye-Waller factor which characterizes the dyanmics at a short time scale<span style="color:#48e1d3"> [4]</span>.
 
 
 ***References***:
 
-<a href="https://www.nature.com/articles/ncomms5163" style="color:red">[1] P. Z. Hanakata, J. F. Douglas, F. W. Starr, *Nature Communications*, 5, 4163 (2014).</a>\\
-<a href="https://aip.scitation.org/doi/abs/10.1063/1.4922481" style="color:red">[2] P. Z. Hanakata, B. A. P. Betancourt, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 142, 234907 (2015).</a>\\
-<a href="https://aip.scitation.org/doi/abs/10.1063/1.4772402" style="color:red">[3] P. Z. Hanakata, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 137, 244901 (2012).</a>\\
-<a href="http://www.pnas.org/content/112/10/2966.short" style="color:red">[4] B. A. P. Betancourt, P. Z. Hanakata, J. F. Douglas, F. W. Starr, *PNAS*, 12, 2966 (2015) </a>
+<a href="https://www.nature.com/articles/ncomms5163" style="color:#48e1d3">[1] P. Z. Hanakata, J. F. Douglas, F. W. Starr, *Nature Communications*, 5, 4163 (2014).</a>\\
+<a href="https://aip.scitation.org/doi/abs/10.1063/1.4922481" style="color:#48e1d3">[2] P. Z. Hanakata, B. A. P. Betancourt, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 142, 234907 (2015).</a>\\
+<a href="https://aip.scitation.org/doi/abs/10.1063/1.4772402" style="color:#48e1d3">[3] P. Z. Hanakata, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 137, 244901 (2012).</a>\\
+<a href="http://www.pnas.org/content/112/10/2966.short" style="color:#48e1d3">[4] B. A. P. Betancourt, P. Z. Hanakata, J. F. Douglas, F. W. Starr, *PNAS*, 12, 2966 (2015) </a>
 
 
