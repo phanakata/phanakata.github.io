@@ -20,7 +20,7 @@ There are three significant findings:
 
 ###### Free volume idea and dynamical interfacial scales
 <table class="image" align="right">
-<caption align="bottom">{{ "<i> Schematic "crowding" interpreation in thin films.</i>" }}</caption>
+<caption align="bottom">{{ "<i> Schematic free volume interpreation in thin films.</i>" }}</caption>
 <tr><td><img src="/img/fv_films.jpg" alt="Free volume picture" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
 </table>
 
