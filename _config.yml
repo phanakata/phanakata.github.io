@@ -34,8 +34,3 @@ disqus_shortname: 'gdgmanagua'
 # Build settings
 markdown: kramdown
 
-#theme: jekyll-theme-cayman
-
-#theme: jekyll-theme-cayman
-
-theme: jekyll-theme-cayman
