@@ -19,7 +19,7 @@ There are three significant findings:
 * We developed a theory connecting the long relaxation time and the Debye-Waller factor which characterizes the dyanmics at a short time scale<style="color:red">[4]</span>.
 
 
-***References***:
+***References***:\\
 <a href="https://www.nature.com/articles/ncomms5163" style="color: #0000cd">[1] P. Z. Hanakata, J. F. Douglas, F. W. Starr, *Nature Communications*, 5, 4163 (2014).</a>\\
 <a href="https://aip.scitation.org/doi/abs/10.1063/1.4922481" style="color: #0000cd">[2] P. Z. Hanakata, B. A. P. Betancourt, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 142, 234907 (2015).</a>\\
 <a href="https://aip.scitation.org/doi/abs/10.1063/1.4772402" style="color: #0000cd">[3] P. Z. Hanakata, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 137, 244901 (2012).</a>\\
