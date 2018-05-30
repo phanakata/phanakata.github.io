@@ -19,12 +19,13 @@ There are three significant findings:
 * We developed a theory connecting the long relaxation time and the Debye-Waller factor which characterizes the dyanmics at a short time scale<span style="color:#268cd7"> [4]</span>.
 
 ###### Free volume idea and dynamical interfacial scales
-Have you ever stucked in a over crowded train during the rush hour? In this situation, it will take much longer time for everyone to move around inside the train. This simple explanation is oftend used to describe glass formation in polymer melts. In thin films, the dynamics (relaxation time) accross the film will be different due to local surrounding. Close to free-surface, atoms can freely move while atoms near the substrate may be either mobile or immobile depending on the surface attraction. It turns out that the perturbed regions grow with decreasing temperature, and thus these effects become signifcant for thinner films. We called these growing perturbing regions "interfacial scales". The next question is how do we quantity this regions, dynamically or based on structure (e.g density)? Our further investigations <span style="color:#268cd7"> [3]</span> revealed that the dynamical scales grow much faster than the the static scales. This was the first hint of connection between relaxation time and interfacial scales.
-
 <table class="image" align="right">
 <caption align="bottom">{{ "<i> Schematic free volume interpretation in thin films.</i>" }}</caption>
 <tr><td><img src="/img/fv_films.jpg" alt="Free volume picture" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
 </table>
+Have you ever stucked in a over crowded train during the rush hour? In this situation, it will take much longer time for everyone to move around inside the train. This simple explanation is oftend used to describe glass formation in polymer melts. In thin films, the dynamics (relaxation time) accross the film will be different due to local surrounding. Close to free-surface, atoms can freely move while atoms near the substrate may be either mobile or immobile depending on the surface attraction. It turns out that the perturbed regions grow with decreasing temperature, and thus these effects become signifcant for thinner films. We called these growing perturbing regions "interfacial scales". The next question is how do we quantity this regions, dynamically or based on structure (e.g density)? Our further investigations <span style="color:#268cd7"> [3]</span> revealed that the dynamical scales grow much faster than the the static scales. This was the first hint of connection between relaxation time and interfacial scales.
+
+
 
 
 ***References***:
