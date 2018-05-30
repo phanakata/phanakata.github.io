@@ -5,9 +5,6 @@ date:   2015-08-01 11:00:01
 categories: glassformers
 author: Paul Hanakata
 image: /img/gf_liquid.jpg
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML">
-</script>
 ---
 
 ##### Cooperative Dynamics in Glass Forming Liquids
