@@ -4,7 +4,7 @@ title:  "Welcome!"
 date:   2018-05-29 11:10:00
 categories: bio
 highlight: true
-
+image: /img/pp.jpg
 ---
 
 I am a theoretical computational physics PhD student at Boston University. I study fundamental properties of 2D materials and its novel applications. Based on numerical simulations, I have made effective models that are reliable, scalable, accurate, yet simple and require much less computing time. Currently, I am developing machine learning methods to find the optimal design of stretchable electronic materials. Recent and past projects can be found in this webpage. 
