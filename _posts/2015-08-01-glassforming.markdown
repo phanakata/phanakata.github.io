@@ -36,7 +36,7 @@ expected to contain both the enthalpic $\Delta H$ and entropic terms
 $\Delta S$, so that $ \Delta \mu = \Delta H - T \Delta S$.
 This relationship is universal, in a sense that it is applicable to thin films with different surface architectures (e.g surface roughness and different interaction strengths) and also polymer nanocomposites<span style="color:#268cd7"> [5]</span>. 
 
-Further we found that the dynamical interfacial scale is proportional to the string length . And thus, the dynamics are also can be described by the interfacial scales <span style="color:#268cd7"> [1]</span>.. This finding is significant because meausring string-length with high-accuracry in experiments is currently not feasible. The interfacial scale, on the other hand, is experimentally accessible as it can be obtained by measuring the dynamics locally. 
+Further we found that the dynamical interfacial scale is proportional to the string length . And thus, the dynamics are also can be described by the interfacial scales <span style="color:#268cd7"> [1]</span>. This finding is significant because meausring string-length with high-accuracry in experiments remains a great challange. The interfacial scale, on the other hand, is experimentally accessible as it can be obtained by measuring the dynamics locally. 
 
 
 
