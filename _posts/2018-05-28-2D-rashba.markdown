@@ -4,6 +4,6 @@ title:  ""
 date:   2018-05-27 11:00:01
 categories: 2DRashba 
 author: Paul Hanakata
-image: /img/2DRashba.png
+image: /img/2DRashba2.jpg
 ---
 ##### 2D Rashba Ferroelectric Lead Chalcogenides
