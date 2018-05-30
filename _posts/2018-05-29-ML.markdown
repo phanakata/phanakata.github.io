@@ -1,0 +1,15 @@
+---
+layout: post
+title:  ""
+date:   2018-05-27 11:00:01
+categories: machinelearning
+author: Paul Hanakata
+---
+##### Machine learning for 
+Recently, there has been great interests in using patterned cuts, often called kirigami cuts, to design stretchable materials. 
+Introducing cuts allow thin materials (membranes) to extend reaching a fracture strain beyond its pristine value. 
+To date, there is no a definitive theory that explains such mechanism. 
+This optimization problem is highly complex and an analytical approach is only applicable for a simple case (e.g few cuts).
+
+First part of the project is to use supervised machine learning, such as convolutional neural networks (CNN), to predict properties of electronic kirigami membranes. 
+Second part of the project is to develop reinforcement learning as well as evolutionary search algorithm to search for the optimal solution without simulating all possible configurations
