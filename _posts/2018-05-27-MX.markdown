@@ -6,7 +6,6 @@ categories: valleytronics
 author: Paul Hanakata
 ---
 ##### Valley and ferroelectric switching in MX monochalcogenide monolayers (M=Sn, Ge; X=S, Ge)
-
 Transition metal dichalcogenides (TMDs) have been studied extensively and have shown potential for many technological applications ranging from photovoltaics to valleytronic devices. Despite of the fast growth of generated data, currently at ~2.5 quintillion bytes of data per day, there have been only few developments on applications of 2D materials for memory devices. 
 
 Analogous to “spintronics", an emerging field called “valleytronics” attempts to store and manipulate information in semiconductors that possess multiple “valleys” (in momentum space).  However, the valleytronic property by itself cannot be utilized for non-volatile memory because of its transient nature as the relaxation time (inter-valley scattering time scale) is on the order of femtosecond.  Here, we propose to use group-IV monochalcogenides monolayers that are structurally bistable. Switching between two identical, but rotated states can be done mechanically by strain (or electrically by field) and optical readout of the state is based on valley selection rules. Using density functional theory calculations, we studied tin sulfide (SnS) and germanium selenide (GeSe) as prototypes [1]. 
