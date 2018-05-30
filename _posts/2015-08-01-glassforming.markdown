@@ -28,7 +28,7 @@ Have you ever stucked in a over crowded train during the rush hour? In this situ
 ###### Unifying theory describing dynamics based on string-like motions and interfacial scales
 Back to our the analogy of moving in a overcrowded train, we can only move if our neighbors are also moving. This means in order to move you have to move cooperatively. In polymer melt, the atoms are moving in string-like fashion. Adam-Gibbs (AG) envisioned that there is an intrinsic scales that govern the relxation. We then found that the dynamics can be described by a simple relationship
 $$
-\tau_s(T)=\tau_{\infty}{\text{ \rm exp}}\bigg[\frac{L(T)}{L(T_{\rm A})}{\frac{\Delta G}{k_{\rm B}T}}\bigg], 
+\tau_s(T)=\tau_{\infty}{ \rm exp}\bigg[\frac{L(T)}{L(T_{\rm A})}{\frac{\Delta G}{k_{\rm B}T}}\bigg], 
 $$
 where $\Delta \mu$ is the limiting activation free energy at elevated
 temperatures, $\tau_s$ has Arrhenius dependence, $L$ is the string length. $L_A$ is the string length at Arrehenius temperature. $\Delta \mu$ is
