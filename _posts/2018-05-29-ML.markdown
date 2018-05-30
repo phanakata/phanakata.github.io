@@ -11,5 +11,5 @@ Introducing cuts allow thin materials (membranes) to extend reaching a fracture 
 To date, there is no a definitive theory that explains such mechanism. 
 This optimization problem is highly complex and an analytical approach is only applicable for a simple case (e.g few cuts).
 
-First part of the project is to use supervised machine learning, such as convolutional neural networks (CNN), to predict properties of electronic kirigami membranes. 
-Second part of the project is to develop reinforcement learning as well as evolutionary search algorithm to search for the optimal solution without simulating all possible configurations
+First part of the project is to use supervised machine learning to predict the properties of electronic kirigami membranes. 
+Second part of the project is to develop reinforcement learning as well as evolutionary search algorithm to search for the optimal solutions without simulating all possible configurations
