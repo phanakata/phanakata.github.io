@@ -24,7 +24,8 @@ There are three significant findings:
 
 ***References***:
 
-<a href="https://www.nature.com/articles/ncomms5163" style="color:#48e1d3">[1] P. Z. Hanakata, J. F. Douglas, F. W. Starr, *Nature Communications*, 5, 4163 (2014).</a>\\
+<a href="https://www.nature.com/articles/ncomms5163" style="color:#268cd7
+">[1] P. Z. Hanakata, J. F. Douglas, F. W. Starr, *Nature Communications*, 5, 4163 (2014).</a>\\
 <a href="https://aip.scitation.org/doi/abs/10.1063/1.4922481" style="color:#268cd7
 ">[2] P. Z. Hanakata, B. A. P. Betancourt, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 142, 234907 (2015).</a>\\
 <a href="https://aip.scitation.org/doi/abs/10.1063/1.4772402" style="color:#268cd7">[3] P. Z. Hanakata, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 137, 244901 (2012).</a>\\
