@@ -18,6 +18,13 @@ There are three significant findings:
 * We established a direct relation between dynamical interfacial scales and the strings (and so the relaxation time)<span style="color:#268cd7"> [1, 2]</span>.
 * We developed a theory connecting the long relaxation time and the Debye-Waller factor which characterizes the dyanmics at a short time scale<span style="color:#268cd7"> [4]</span>.
 
+###### Free volume idea and dynamical interfacial scales
+<table class="image" align="right">
+<caption align="bottom">{{ "<i> Schematic "crowding" interpreation in thin films.</i>" }}</caption>
+<tr><td><img src="/img/fv_films.jpg" alt="Free volume picture" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
+</table>
+
+
 ***References***:
 
 <a href="https://www.nature.com/articles/ncomms5163" style="color:#268cd7
