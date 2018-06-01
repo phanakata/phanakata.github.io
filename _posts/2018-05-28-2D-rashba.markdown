@@ -12,5 +12,7 @@ Monolayers and heterostructures of 2D electronic materials with spin-orbit effec
 ###### "Ingridients" for FERSC 
 The spin-orbit splitting of the bands occurs in crystals without inversion symmetry, where it is known as Dresselhaus effect, and in 2D structures or surfaces, as Rashba effect. However, suitable atomically thin 2D materials with large Rashba coefficient are hard to find. To have Rashba splitting there are two key properties that should present: strong SOI and broken inversion symmetry. In graphene and non-polar two-dimensional materials, such as transition metal dichalcogenides, breaking inversion symmetry is often achieved by application of out-of-plane electric field or through interfacial effects. However, the respective spin splitting graphene is rather small rendering the spin polarization unusable at room temperature. Spin-splitting in WSe$_2$ monolayer is a Zeeman-type splitting because the out-of plane mirror symmetry suppresses the Rashba term. Before going into the details of my research, let's start with overview of Rashba effects in two-dimensional electron gas (2DEG). 
 
+*To be continued*
+
 
 
