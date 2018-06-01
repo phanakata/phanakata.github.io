@@ -31,5 +31,5 @@ While this approach seems great, the valleytronic property by itself cannot be u
 **References**:
 
 <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.035304" style="color:#268cd7
-">[1] P. Z. Hanakata, *Phys. Rev. B*, 94, 035304 (2016).</a>
+">[1] P. Z. Hanakata, A. Carvalho, D. K. Campbell, H. S. Park, *Phys. Rev. B*, 94, 035304 (2016).</a>
 
