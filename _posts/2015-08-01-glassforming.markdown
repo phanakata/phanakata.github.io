@@ -11,7 +11,7 @@ image: /img/gf_liquid.jpg
 Ultra-thin  polymer  films  and polymer nanocomposites have  ubiquitous  technological  applications,  ranging
 from electronic devices to artificial tissues.  These nanoconfined polymer materials,  typically with thickness less than 100 nm,  exhibit properties that are different from  their  bulk  counterparts. To engineer the dynamics, e.g. glass transition temperature $T_g$, remains a technological challange because lack of fundamental understanding of glass formations in polymer melts under naoconfinements.  
 
-This research was part of my undergraduate thesis work under supervison of <a href="http://fstarr.faculty.wesleyan.edu/" style="color:red"> Francis Starr </a> at the Physics Department, Wesleyan University. 
+This research was part of my undergraduate thesis work under supervison of Prof. <a href="http://fstarr.faculty.wesleyan.edu/" style="color:red"> Francis Starr </a> at the Physics Department, Wesleyan University. 
 We studied glassy and cooperative dyanmics of glass forming liquids under nanoconfinements using molecular dynamics. 
 There are three significant findings:
 * We developed a unifying framework connecting string-like cooperative motions and relaxation time <span style="color:#268cd7">[1-3]</span>.
@@ -51,9 +51,8 @@ Further we found that the dynamical interfacial scale is proportional to the str
 
 <a href="https://www.nature.com/articles/ncomms5163" style="color:#268cd7
 ">[1] **P. Z. Hanakata**, J. F. Douglas, F. W. Starr, *Nature Communications*, 5, 4163 (2014).</a>\\
-<a href="https://aip.scitation.org/doi/abs/10.1063/1.4922481" style="color:#268cd7
-">[2] **P. Z. Hanakata**, B. A. P. Betancourt, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 142, 234907 (2015).</a>\\
-<a href="https://aip.scitation.org/doi/abs/10.1063/1.4772402" style="color:#268cd7">[3] P. Z. Hanakata, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 137, 244901 (2012).</a>\\
+<a href="https://aip.scitation.org/doi/abs/10.1063/1.4922481" style="color:#268cd7">[2] **P. Z. Hanakata**, B. A. P. Betancourt, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 142, 234907 (2015).</a>\\
+<a href="https://aip.scitation.org/doi/abs/10.1063/1.4772402" style="color:#268cd7">[3] **P. Z. Hanakata**, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 137, 244901 (2012).</a>\\
 <a href="http://www.pnas.org/content/112/10/2966.short" style="color:#268cd7">[4] B. A. P. Betancourt, **P. Z. Hanakata**, J. F. Douglas, F. W. Starr, *PNAS*, 12, 2966 (2015).</a>\\
 <a href="http://pubs.rsc.org/-/content/articlehtml/2013/sm/c2sm26800k" style="color:#268cd7">[5] B. A. P. Betancourt, J. F. Douglas, F. W. Starr, *Soft Matter*, 9, 241 (2013).</a>
 
