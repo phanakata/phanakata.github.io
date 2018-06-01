@@ -50,11 +50,11 @@ Further we found that the dynamical interfacial scale is proportional to the str
 ***References***:
 
 <a href="https://www.nature.com/articles/ncomms5163" style="color:#268cd7
-">[1] P. Z. Hanakata, J. F. Douglas, F. W. Starr, *Nature Communications*, 5, 4163 (2014).</a>\\
+">[1] **P. Z. Hanakata**, J. F. Douglas, F. W. Starr, *Nature Communications*, 5, 4163 (2014).</a>\\
 <a href="https://aip.scitation.org/doi/abs/10.1063/1.4922481" style="color:#268cd7
-">[2] P. Z. Hanakata, B. A. P. Betancourt, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 142, 234907 (2015).</a>\\
+">[2] **P. Z. Hanakata**, B. A. P. Betancourt, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 142, 234907 (2015).</a>\\
 <a href="https://aip.scitation.org/doi/abs/10.1063/1.4772402" style="color:#268cd7">[3] P. Z. Hanakata, J. F. Douglas, F. W. Starr, *The Journal of Chem. Phys.*, 137, 244901 (2012).</a>\\
-<a href="http://www.pnas.org/content/112/10/2966.short" style="color:#268cd7">[4] B. A. P. Betancourt, P. Z. Hanakata, J. F. Douglas, F. W. Starr, *PNAS*, 12, 2966 (2015).</a>\\
+<a href="http://www.pnas.org/content/112/10/2966.short" style="color:#268cd7">[4] B. A. P. Betancourt, **P. Z. Hanakata**, J. F. Douglas, F. W. Starr, *PNAS*, 12, 2966 (2015).</a>\\
 <a href="http://pubs.rsc.org/-/content/articlehtml/2013/sm/c2sm26800k" style="color:#268cd7">[5] B. A. P. Betancourt, J. F. Douglas, F. W. Starr, *Soft Matter*, 9, 241 (2013).</a>
 
 
