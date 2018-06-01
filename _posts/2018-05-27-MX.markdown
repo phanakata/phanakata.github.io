@@ -11,9 +11,10 @@ image: /img/valley.jpg
 Transition metal dichalcogenides (TMDs) have been studied extensively and have shown potential for many technological applications ranging from photovoltaics to valleytronic devices. Despite of the fast growth of generated data, currently at **~2.5 quintillion bytes of data per day**, there have been only few developments on applications of 2D materials for memory devices. 
 
 Analogous to “spintronics", an emerging field called “valleytronics” attempts to store and manipulate information in semiconductors that possess multiple “valleys” (in momentum space). Before going further let's discuss how can we utilize valley degree of freedrom in seimconductors to store bit of information. Supposed we have a semiconductor with four valleys located near the boundary of a rectangular Brillouin zone ${\bf k}=\{X, X', Y, Y'\}=\{[f\pi/a, 0], [-f\pi/a, 0], [0, f\pi/a], [0, -f\pi/a]\}$, where $f$ is a number close to one. Further, we supposed that the semiconductor has a gap on the order of a few electron volt and so the electrons can be excited from the valence band to the conduction band. Mathematically, we can write the interband transition probability at a given vector ${\bf k}$ as
-\begin{equation}
-P_i({\bf k})\propto\left|\frac{m}{\hbar}\left\langle c({\bf k}) \left|\frac{\partial H}{\partial k_i}\right|v({\bf k})\right\rangle\right|^2,
-\end {equation}
+
+$$P_i({\bf k})\propto\left|\frac{m}{\hbar}\left\langle c({\bf k}) \left|\frac{\partial H}{\partial k_i}\right|v({\bf k})\right\rangle\right|^2,
+$$
+
 where $i$ is the direction of the light polarization, $c(\bf k)$ is
 the conduction band wave function, $v(\bf k)$ is the valence band wave
 function, and $H$ is the Hamiltonian. And supposed further that there is some selection rule such that we can *selectively* excite a certain valley using a light with a specific polarization. This approach is known as **selective valley polarization**.  Similar to spin-up and spin-down, we can define '1' when the $X$ valleys are occupied and '0' when the $Y$ valleys are occupied. This mechanism is the basic approach to build a  **valleytronic device**.
