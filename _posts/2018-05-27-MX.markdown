@@ -8,7 +8,25 @@ image: /img/valley.jpg
 author: Paul Hanakata
 ---
 ##### Valley and ferroelectric switching in MX monochalcogenide monolayers (M=Sn, Ge; X=S, Ge)
+<table class="image" align="right">
+<caption align="bottom">{{ "<i> Similar to spin degree of freedom, valley degree of freedon can be used to store information.</i>" }}</caption>
+<tr><td><img src="/img/spin-valley.jpg" alt="Valley degree of freedom" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
+</table>
 Transition metal dichalcogenides (TMDs) have been studied extensively and have shown potential for many technological applications ranging from photovoltaics to valleytronic devices. Despite of the fast growth of generated data, currently at ~2.5 quintillion bytes of data per day, there have been only few developments on applications of 2D materials for memory devices. 
 
-Analogous to “spintronics", an emerging field called “valleytronics” attempts to store and manipulate information in semiconductors that possess multiple “valleys” (in momentum space).  However, the valleytronic property by itself cannot be utilized for non-volatile memory because of its transient nature as the relaxation time (inter-valley scattering time scale) is on the order of femtosecond.  Here, we propose to use group-IV monochalcogenides monolayers that are structurally bistable. Switching between two identical, but rotated states can be done mechanically by strain (or electrically by field) and optical readout of the state is based on valley selection rules. Using density functional theory calculations, we studied tin sulfide (SnS) and germanium selenide (GeSe) as prototypes [1]. 
+Analogous to “spintronics", an emerging field called “valleytronics” attempts to store and manipulate information in semiconductors that possess multiple “valleys” (in momentum space). Before going further let's discuss how can we utilize valley degree of freedrom in seimconductors to store bit of information. Supposed we have a semiconductor with four valleys located near the boundary of a rectangular Brillouin zone ${\bf k}={X, X', Y, Y'}={[f\pi/a, 0], [-f\pi/a, 0], [0, f\pi/a], [0, -f\pi/a]}$, where $f$ is a number close to one. Further, we supposed that the semiconductor has a gap on the order of a few electron volt and so the electrons can be excited from the valence band to the conduction band. Mathematically, we can write the interband transition probability at a given vector ${\bf k}$ as
+\begin{equation}
+P_i({\bf k})\propto\left|\frac{m}{\hbar}\left\langle c({\bf k}) \left|\frac{\partial H}{\partial k_i}\right|v({\bf k})\right\rangle\right|^2,
+\end {equation}
+where $i$ is the direction of the light polarization, $c(\bf k)$ is
+the conduction band wave function, $v(\bf k)$ is the valence band wave
+function, and $H$ is the Hamiltonian. And supposed further that there is some selection rule such that we can *selectively* excite a certain valley using a light with a specific polarization. This approach is known as **selective valley polarization**.  Similar to spin-up and spin-down, we can define '1' when the $X$ valleys are occupied and '0' when the $Y$ valleys are occupied. This mechanism is the basic approach to build a  **valleytronic device**.
+
+While this approach seems great, the valleytronic property by itself cannot be utilized for non-volatile memory because of its transient nature as the relaxation time (inter-valley scattering time scale) is on the order of femtosecond.  In this work, we propose to use group-IV monochalcogenides monolayers that are structurally bistable. Switching between two identical, but rotated states can be done mechanically by strain (or electrically by field) and optical readout of the state is based on valley selection rules. Using density functional theory calculations, we studied tin sulfide (SnS) and germanium selenide (GeSe) as prototypes <span style="color:#268cd7"> [1]</span>. 
+
+*To be continued*
+**References**:
+
+<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.035304" style="color:#268cd7
+">[1] P. Z. Hanakata, *Phys. Rev. B*, 94, 035304 (2016).</a>\\
 
