@@ -8,7 +8,7 @@ List of all publications can be found in my <a href="https://scholar.google.com/
 
 **Two-dimensional Ferroelectric Rashba semiconductors (FERSCs)**:\\
 <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.161401" style="color:#268cd7">[1] **P. Z. Hanakata**, A. S. Rodin, Alexandra Carvalho, Harold S. Park, David K. Campbell, and A. H. Castro Neto, *Phys. Rev. B Rapid*, 96, 161401(R)  (2017).</a>\\
-<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.115450" style="color:#268cd7">[2] A. S. Rodin, **P. Z. Hanakata**, Alexandra Carvalho, Harold S. Park, David K. Campbell, and A. H. Castro Neto, *Phys. Rev B*, 96, 115450  (2017).</a>\\
+<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.115450" style="color:#268cd7">[2] A. S. Rodin, **P. Z. Hanakata**, Alexandra Carvalho, Harold S. Park, David K. Campbell, and A. H. Castro Neto, *Phys. Rev B*, 96, 115450  (2017).</a>
 
 **Two-dimensional valley and ferroelectric semiconductors (VFESCs)**:\\
 <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.035304" style="color:#268cd7
