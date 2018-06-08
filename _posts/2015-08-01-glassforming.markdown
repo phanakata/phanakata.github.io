@@ -11,8 +11,7 @@ image: /img/gf_liquid.jpg
 Ultra-thin  polymer  films  and polymer nanocomposites have  ubiquitous  technological  applications,  ranging
 from electronic devices to artificial tissues.  These nanoconfined polymer materials,  typically with thickness less than 100 nm,  exhibit properties that are different from  their  bulk  counterparts. To engineer the dynamics, e.g. glass transition temperature $T_g$, remains a technological challange because lack of fundamental understanding of glass formations in polymer melts under naoconfinements.  
 
-This research was part of my undergraduate thesis work under supervison of Prof. <a href="http://fstarr.faculty.wesleyan.edu/" style="color:red"> Francis Starr </a> at the Physics Department, Wesleyan University. 
-We studied glassy and cooperative dyanmics of glass forming liquids under nanoconfinements using molecular dynamics. 
+This research was part of my undergraduate thesis work under supervison of Prof. <a href="http://fstarr.faculty.wesleyan.edu/" style="color:red"> Francis Starr </a> at the Physics Department, Wesleyan University. You can find my thesis <a href="https://wesscholar.wesleyan.edu/etd_hon_theses/1195/" style="color:red"> here </a>. We studied glassy and cooperative dyanmics of glass forming liquids under nanoconfinements using molecular dynamics. 
 There are three significant findings:
 * We developed a unifying framework connecting string-like cooperative motions and relaxation time <span style="color:#268cd7">[1-3]</span>.
 * We established a direct relation between dynamical interfacial scales and the strings (and so the relaxation time)<span style="color:#268cd7"> [1, 2]</span>.
