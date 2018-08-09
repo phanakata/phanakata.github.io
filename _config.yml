@@ -41,4 +41,6 @@ disqus_shortname: 'gdgmanagua'
 
 # Build settings
 markdown: kramdown
+# Google Analytics
+google_analytics: UA-123709154-1
 
