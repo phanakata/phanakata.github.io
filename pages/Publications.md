@@ -7,6 +7,7 @@ permalink: /Publications/
 List of all publications can be found in my <a href="https://scholar.google.com/citations?user=52QtSLYAAAAJ&hl=en" style="color:red"> google scholar page  </a> 
 
 **Two-dimensional Ferroelectric Rashba semiconductors (FERSCs)**:\\
+<a href="" style="color:#268cd7">[1] **P. Z. Hanakata**, A. S. Rodin, Harold S. Park, David K. Campbell, and A. H. Castro Neto, *Phys. Rev. B Rapid*, 97, 235312  (2018).</a>\\
 <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.161401" style="color:#268cd7">[1] **P. Z. Hanakata**, A. S. Rodin, Alexandra Carvalho, Harold S. Park, David K. Campbell, and A. H. Castro Neto, *Phys. Rev. B Rapid*, 96, 161401(R)  (2017).</a>\\
 <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.115450" style="color:#268cd7">[2] A. S. Rodin, **P. Z. Hanakata**, Alexandra Carvalho, Harold S. Park, David K. Campbell, and A. H. Castro Neto, *Phys. Rev B*, 96, 115450  (2017).</a>
 
@@ -16,7 +17,7 @@ List of all publications can be found in my <a href="https://scholar.google.com/
 
 **Two-dimensional kirigami and actuators**:\\
 <a href="http://pubs.rsc.org/-/content/articlehtml/2016/nr/c5nr06431g" style="color:#268cd7
-">[1] **P. Z. Hanakata**, Z. Qi, D. K. Campbell, H. S. Park, *Nanoscale*, 8, 458 (2016).</a>
+">[1] **P. Z. Hanakata**, Z. Qi, D. K. Campbell, H. S. Park, *Nanoscale*, 8, 458 (2016).</a>\\
 <a href="http://pubs.rsc.org/-/content/articlelanding/2017/sm/c7sm01693j/unauth#!divAbstract" style="color:#268cd7
 ">[2]  M. A. Dias, M. P. McCarron, D. Rayneau-Kirkhope, **P. Z. Hanakata**, D. K. Campbell, H. S. Park, D. P. Holmes, *Soft Matter *, 13, 9087 (2017).</a>
 
