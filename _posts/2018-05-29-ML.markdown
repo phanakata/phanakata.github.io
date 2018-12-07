@@ -3,6 +3,7 @@ layout: post
 title:  ""
 date:   2018-05-27 11:00:01
 categories: machinelearning
+image: /img/ML_diagram.jpg
 author: Paul Hanakata
 ---
 ##### Machine learning for designing stretchable graphene kirigami
