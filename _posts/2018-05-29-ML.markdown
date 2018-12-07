@@ -27,6 +27,6 @@ We benchmark accuracy score of linear model, neural networks (NN) and convolutio
 <a href="https://arxiv.org/abs/1808.06111" style="color:#268cd7">[1] **Paul Z. Hanakata**, Ekin D. Cubuk, David K. Campbell, and Harold S. Park, arxiv.org/abs/1808.06111.</a>
 Our paper is recently accepted to Physical Review Letters! 
 
-Some of the analysis and TensorFlow codes are avalaible in my Github page: a href="https://github.com/phanakata/ML_for_kirigami_design" style="color:#268cd7"> https://github.com/phanakata/ML_for_kirigami_design</a>
+Some of the analysis and TensorFlow codes are avalaible in my GitHub page: <a href="https://github.com/phanakata/ML_for_kirigami_design" style="color:#268cd7"> https://github.com/phanakata/ML_for_kirigami_design</a>
 
 
