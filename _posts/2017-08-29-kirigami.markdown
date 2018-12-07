@@ -3,6 +3,7 @@ layout: post
 title:  ""
 date:   2017-08-29 11:00:01
 categories: kirigami
+image: /img/4actuators.jpg
 author: Paul Hanakata
 ---
 ##### Kirigami actuators 
