@@ -26,7 +26,7 @@ lost. Series expansion can be used to "recover" the information of interactions 
 We benchmark accuracy score of linear model, neural networks (NN) and convolutional neural netwroks (CNN). We found that the CNN with deep architecture performs the best.  We then use the CNN for search algorithm. 
 <table class="image" align="right">
 <caption align="bottom">{{ "<i> Peformances of different ML models </i>" }}</caption>
-<tr><td><img src="/img/graphene_sheet.png" alt="Peformances of different ML models" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
+<tr><td><img src="/img/different_arch.png" alt="Peformances of different ML models" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
 </table>
 
 
