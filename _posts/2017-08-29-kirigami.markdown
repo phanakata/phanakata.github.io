@@ -10,8 +10,10 @@ author: Paul Hanakata
 
 
 
-***References***:\\
+***References***:
+
 <a href="http://pubs.rsc.org/-/content/articlehtml/2016/nr/c5nr06431g" style="color:#268cd7
-">[1] **P. Z. Hanakata**, Z. Qi, D. K. Campbell, H. S. Park, *Nanoscale*, 8, 458 (2016).</a>\\
+">[1] **P. Z. Hanakata**, Z. Qi, D. K. Campbell, H. S. Park, *Nanoscale*, 8, 458 (2016).</a>
+
 <a href="http://pubs.rsc.org/-/content/articlelanding/2017/sm/c7sm01693j/unauth#!divAbstract" style="color:#268cd7
 ">[2]  M. A. Dias, M. P. McCarron, D. Rayneau-Kirkhope, **P. Z. Hanakata**, D. K. Campbell, H. S. Park, D. P. Holmes, *Soft Matter *, 13, 9087 (2017).</a>
