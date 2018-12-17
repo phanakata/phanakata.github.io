@@ -23,7 +23,21 @@ Linear model (with feature transformation) works reasonably efficient for *small
 In the series expansion approach, the 2D cut patterns are flattened into a 1D-array and thus some of the local spatial information are
 lost. Series expansion can be used to "recover" the information of interactions between neighbors, but this approach becomes inefficient when the number of cells becomes large. This series expansion approach is computationally inefficient as we expect the interactions should be local. In principle, one could do series expansions to the nearest neighbors only; however, details of the potentials are not always known. For these reasons, the convolutional neural networks (CNN) is a more appropriate and scalable model as this deep learning is superior in recognizing edges in 2D motifs as well as performing down-sampling, which is very suitable for our problem. In the CNN, the 2D image (input) is convolved by a set of learnable filters and this allows the model to learn 2D motifs. An image passing through these filters then activates neurons which then classify (or rank) the cutting patterns to good or bad designs. This approach is more efficient than the series expansion approach as the CNN model is built based on learned 2D local motifs.
 
-We benchmark accuracy score of linear model, neural networks (NN) and convolutional neural netwroks (CNN). We found that the CNN with deep architecture performs the best.  We then use the CNN for search algorithm. The CNN search algorithm is able to search for the optimal solutions with only 1000 training data in a large design space of approximately 4,000,000. 
+We benchmark accuracy score of linear model, neural networks (NN) and convolutional neural netwroks (CNN). We found that the CNN with deep architecture performs the best.  We then use the CNN for search algorithm. 
+
+
+##### CNN for search algorithm 
+Next we developed a simple CNN search algorithm. 
+Search algorithm:
+1. Start with a radom population
+2. Evaluate targert properties with MD
+3. Train CNN 
+4. Use CNN to predict the *unexplored* configurations
+5. Sort and take the top 100 candidates for the next generation
+6. Back to 2 
+
+The CNN search algorithm is able to search for the optimal solutions with only 1000 training data in a large design space of approximately 4,000,000. The superior designs for each generation is shown bellow. 
+
 
 *To be continued ..*
 
