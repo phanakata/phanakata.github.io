@@ -42,8 +42,8 @@ Search algorithm:
 
 The CNN search algorithm is able to search for the optimal solutions with only 1000 training data in a large design space of approximately 4,000,000. The superior designs for each generation are shown bellow. 
 <table class="image" align="center">
-<caption align="bottom">{{ "<i> Peformances of different ML models </i>" }}</caption>
-<tr><td><img src="/img/search_results.png" alt="Peformances of different ML models" description="Drawing" style="width: 500px; max-width:100%;"/></td></tr>
+<caption align="bottom">{{ "<i> Search results </i>" }}</caption>
+<tr><td><img src="/img/search_results.png" alt="Search results" description="Drawing" style="width: 500px; max-width:100%;"/></td></tr>
 </table>
 
 
