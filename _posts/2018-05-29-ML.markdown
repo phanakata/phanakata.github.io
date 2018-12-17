@@ -9,7 +9,7 @@ author: Paul Hanakata
 ##### Machine learning for designing stretchable graphene kirigami
 <table class="image" align="right">
 <caption align="bottom">{{ "<i> Visualization of graphene membrane.</i>" }}</caption>
-<tr><td><img src="/img/graphene_sheet.png" alt="Visualization of graphene membrane" description="Drawing" style="width: 300px; max-width:20%;"/></td></tr>
+<tr><td><img src="/img/graphene_sheet.png" alt="Visualization of graphene membrane" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
 </table>
 Recently, there has been great interests in using patterned cuts, often called kirigami cuts, to design stretchable materials. 
 Introducing cuts allow thin materials (membranes) to extend reaching a fracture strain beyond its pristine value. This topology optimization problem is highly complex and an analytical approach is only available for simple cases (e.g few cuts). Using standard computational approaches (e.g. molecular dynamics) to simulate all candidate designs is not practical, as the number of possible ways to pattern the 2D materials grows exponentially with system size. To solve this problem, I use a **machine learning (ML)** approach, where data are used to provide physical insights and an effective model to describe a physical system.
