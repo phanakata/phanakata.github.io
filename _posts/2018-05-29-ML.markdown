@@ -40,7 +40,7 @@ Search algorithm:
 5. Sort and take the top 100 candidates for the next generation
 6. Back to 2 
 
-The CNN search algorithm is able to search for the optimal solutions with only 1000 training data in a large design space of approximately 4,000,000. The superior designs for each generation is shown bellow. 
+The CNN search algorithm is able to search for the optimal solutions with only 1000 training data in a large design space of approximately 4,000,000. The superior designs for each generation are shown bellow. 
 
 
 *To be continued ..*
