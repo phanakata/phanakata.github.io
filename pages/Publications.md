@@ -7,7 +7,7 @@ permalink: /Publications/
 List of all publications can be found in my <a href="https://scholar.google.com/citations?user=52QtSLYAAAAJ&hl=en" style="color:red"> google scholar page  </a> 
 
 **Machine learning**:\\
-<a href="https://arxiv.org/abs/1808.06111" style="color:#268cd7">[1] **Paul Z. Hanakata**, Ekin D. Cubuk, David K. Campbell, and Harold S. Park, arxiv.org/abs/1808.06111.</a>
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.255304" style="color:#268cd7">[1] **Paul Z. Hanakata**, E. D. Cubuk, D. K. Campbell, H.S. Park, *Phys. Rev. Lett*, 121, 255304  (2018).</a>
 
 **Two-dimensional Ferroelectric Rashba semiconductors (FERSCs)**:\\
 <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.235312" style="color:#268cd7">[1] **Paul Z. Hanakata**, A. S. Rodin, Harold S. Park, David K. Campbell, and A. H. Castro Neto, *Phys. Rev. B*, 97, 235312  (2018).</a>\\
