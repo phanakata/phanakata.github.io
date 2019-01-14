@@ -32,7 +32,7 @@ We benchmark accuracy score of linear model, neural networks (NN) and convolutio
 ##### CNN for search algorithm 
 Next we developed a simple CNN search algorithm. 
 Search algorithm:
-1. Start with a radom population
+1. Start with a random population
 2. Evaluate targert properties with MD
 3. Train CNN 
 4. Use CNN to predict the *unexplored* configurations
