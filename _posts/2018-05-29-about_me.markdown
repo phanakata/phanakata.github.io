@@ -7,6 +7,7 @@ highlight: true
 image: /img/pp.jpg
 ---
 
-I am a theoretical computational physics PhD student at Boston University. I study fundamental properties of 2D materials and its novel applications. Based on numerical simulations, I have made effective models that are reliable, scalable, accurate, yet simple and require much less computing time. Currently, I am developing machine learning methods to find the optimal design of stretchable electronic materials. Recent and past projects can be found in this webpage. 
+I am a theoretical computational physics PhD student at Boston University. I study fundamental properties of 2D materials and its novel applications using density functional theory, molecular dyanmics, and tight-binding approach. Based on numerical simulations, I have developed effective models that are scalable, accurate, yet simple and require much less computing time. In addition, I am interested in developing machine learning methods to design of stretchable electronic materials. Recent and past projects can be found in this webpage. 
 
-I am also passionate in writing more efficient algorithms and learning the latest technologies (such as GPU) to speed up computing time. 
+I am also passionate in writing more efficient algorithms and learning the latest technologies (such as GPU) to speed up computing time.
+Lastly, I am trying to start posting physics problems that are, hopefully, challenging and fun for physics enthusiasts. 
