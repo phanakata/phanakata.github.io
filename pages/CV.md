@@ -6,7 +6,7 @@ permalink: /CV/
 ###### __Research Interests__
 
 *Condensed Matter Physics*
-* 2D Materials beyond graphene 
+* 2D materials beyond graphene 
 * Nonlinear mechanics in thermalized 2D membrane 
 * Kirigami and mechanical metamaterials 
 
@@ -27,13 +27,12 @@ __*B.A. in Physics (with high honors) and Mathematics  (2014)*__, Wesleyan Unive
 * *Advisor:* Francis W. Starr
 
 ###### __Awards__
-* __"Gertrude and Maurice Goldhaber Prize"__ in recognition of "outstanding achievement by a first-year graduate student", Department of Physics, Boston University (2015).
-* __"Leroy Apker Award Finalist"__, The highest prize oered in the United States for an undergraduate thesis in physics, American Physical Society (2014). 
-* __Bertman Prize"__ Wesleyan Physics Department's highest recognition of an undergraduate student majoring in physics, Wesleyan University (2014). 
-
+* __Gertrude and Maurice Goldhaber Prize__ in recognition of "outstanding achievement by a first-year graduate student", Department of Physics, Boston University (2015).
+* __Leroy Apker Award Finalist__, The highest prize oered in the United States for an undergraduate thesis in physics, American Physical Society (2014). 
+* __Bertman Prize__ Wesleyan Physics Department's highest recognition of an undergraduate student majoring in physics, Wesleyan University (2014). 
 
 ###### __Fellowships/Scholarships__
-* __"Hariri Graduate Fellow"__, "awarded to outstanding PhD students who pursue computational and data-driven research at Boston
+* __Hariri Graduate Fellow__, "awarded to outstanding PhD students who pursue computational and data-driven research at Boston
 University" , Boston University (2018-2019).
-* __"Materials Science and Engineering Innovation Grant,"___, Boston University (2016) 
-* __"Freeman Scholarship"__, Wesleyan University (2010-2014).
+* __Materials Science and Engineering Innovation Grant___, Boston University (2016) 
+* __Freeman Scholarship__, Wesleyan University (2010-2014).
