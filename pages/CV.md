@@ -39,8 +39,12 @@ __*B.A. in Physics (with high honors) and Mathematics  (2014)*__, Wesleyan Unive
 * __Bronze Medal__ International Physics Olympiad (2009)
 * __Silver Mdeal__ Asian Physics Olympiad (2009)
 
+###### __Grants__
+* __Hariri Incubation Grant__, Boston University (2018-2019)
+* __Materials Science and Engineering Innovation Grant__, Boston University (2016) 
+
 ###### __Fellowships/Scholarships__
 * __Hariri Graduate Fellow__, "awarded to outstanding PhD students who pursue computational and data-driven research at Boston
 University" , Boston University (2018-2019).
-* __Materials Science and Engineering Innovation Grant___, Boston University (2016) 
+* __Materials Science and Engineering Innovation Grant__, Boston University (2016) 
 * __Freeman Scholarship__, Wesleyan University (2010-2014).
