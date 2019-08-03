@@ -3,6 +3,10 @@ layout: page
 title: CV
 permalink: /CV/
 ---
+
+###### __Current Position__
+* Postdoctoral Fellow working with David R. Nelson, Physics Department Harvard Univeristy
+
 ###### __Research Interests__
 
 *Condensed Matter Physics*
@@ -30,6 +34,10 @@ __*B.A. in Physics (with high honors) and Mathematics  (2014)*__, Wesleyan Unive
 * __Gertrude and Maurice Goldhaber Prize__ in recognition of "outstanding achievement by a first-year graduate student", Department of Physics, Boston University (2015).
 * __Leroy Apker Award Finalist__, The highest prize oered in the United States for an undergraduate thesis in physics, American Physical Society (2014). 
 * __Bertman Prize__ Wesleyan Physics Department's highest recognition of an undergraduate student majoring in physics, Wesleyan University (2014). 
+* __Phi Beta Kappa__ Wesleyan University (2014)
+* __Johnston Prize, Karl Van Dyke Prize__ Wesleyan University (2010, 2012)
+* __Bronze Medal__ International Physics Olympiad (2009)
+* __Silver Mdeal__ Asian Physics Olympiad (2009)
 
 ###### __Fellowships/Scholarships__
 * __Hariri Graduate Fellow__, "awarded to outstanding PhD students who pursue computational and data-driven research at Boston
