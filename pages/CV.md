@@ -48,3 +48,7 @@ __*B.A. in Physics (with high honors) and Mathematics  (2014)*__, Wesleyan Unive
 University" , Boston University (2018-2019).
 * __Materials Science and Engineering Innovation Grant__, Boston University (2016) 
 * __Freeman Scholarship__, Wesleyan University (2010-2014).
+
+###### __Services__
+Referee for Advanced Nanoscales, Physical Review B, Nature Scientific Reports, and The Journal of Chemical Physics. 
+
