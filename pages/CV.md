@@ -5,7 +5,7 @@ permalink: /CV/
 ---
 
 ###### __Current Position__
-* Postdoctoral Fellow working with David R. Nelson, Physics Department Harvard Univeristy
+* Postdoctoral Fellow working with David R. Nelson, Physics Department Harvard University
 
 ###### __Research Interests__
 
