@@ -50,5 +50,5 @@ University" , Boston University (2018-2019).
 * __Freeman Scholarship__, Wesleyan University (2010-2014).
 
 ###### __Services__
-Referee for Nature Computational Materials, ACS Nano, Extreme Mechanics Letter, Physical Review B, Advanced Nanoscales, Nature Scientific Reports, and The Journal of Chemical Physics. 
+Referee for Nature Computational Materials, ACS Nano, Extreme Mechanics Letters, Physical Review B, Advanced Nanoscales, Nature Scientific Reports, and The Journal of Chemical Physics. 
 
