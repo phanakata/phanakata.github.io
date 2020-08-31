@@ -1,9 +1,9 @@
 # Site settings
 title: Paul Hanakata
 email: paul.hanakata[at]gmail.com
-department: Physics Department, Boston University
-address1: 590 Commonwealth Avenue
-address2: Boston, MA 02215
+department: Physics Department, Harvard University
+address1: 17 Oxford St, Cambridge
+address2: Cambridge, MA 02138
 description: > # this means to ignore newlines until "baseurl:"
   I study electronic and mechanical properties of 2D materials beyond graphene using density functional theory methods.
 baseurl: "" # the subpath of your site, e.g. /blog/
