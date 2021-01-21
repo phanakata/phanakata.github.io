@@ -7,6 +7,8 @@ image: /img/4actuators.jpg
 author: Paul Hanakata
 ---
 ##### Kirigami actuators 
+<img src="/img/MoS2Actuator.gif" width="40" height="40" />
+
 ![Alt Text](/img/MoS2Actuator.gif)
 <table class="image" align="center">
 <caption align="bottom">{{ "<i> text </i>" }}</caption>
