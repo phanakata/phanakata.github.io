@@ -8,15 +8,10 @@ author: Paul Hanakata
 ---
 ##### Kirigami actuators 
 <img src="/img/MoS2Actuator.gif" width="200" height="200" />
+Recently there has been great interests in utilizing thin elastic sheets for engineered materials. Foppl van Karman number $YL^2/\kappa$, ration between Young's modulus multiply by system's dimensions and bending rigidity $\kappa$, is often used to characterized "thinness" and how easy the materials to bend relative to stretching. Thin sheet like A4 paper has very large vK and thus it is very easy to buckle--escpae to the third dimensions. It turns out that by adding cuts to the thin sheet we can modify the mechanical properties. One of the prime example is adding alternating periodic cuts, known as Kirigami cuts, to the sheet to increase stretchability. This approach has been widely applied to macro scale. Since we have a dimensionaless vK, in principle we should be able to observe similar effects at nanoscale. We indeed found that we use kirigami cuts to enhance stretchbility via molecular dynamics simulations. This improvment in materials' stretchbility has also been demonstrated experimentally in *one* atomically thin material graphene. 
 
-%<table class="image" align="center">
-%<caption align="bottom">{{ "<i> text </i>" }}</caption>
-%<tr><td>
-%	<video width='600' height='390' style="max-width:100%; max-height:100%;" preload="metadata" controls="">
-%		<source src='/img/MoS2Actuator.mpg' />
-%	</video>
-%</td></tr>
-%</table> 
+The out-of-plane buckling is one of key mechanism that prevent such thin materials to break. We then further investigate if we indeed can find a universal framework to understand buckling in thin sheerts, ranging from macroscale to nanoscale. 
+
 
 
 
