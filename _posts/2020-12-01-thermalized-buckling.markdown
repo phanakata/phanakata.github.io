@@ -1,0 +1,26 @@
+---
+layout: post
+title:  ""
+date:   2020-12-01 11:00:01
+categories: kirigami
+image: /img/4actuators.jpg
+author: Paul Hanakata
+---
+##### Kirigami actuators 
+<img src="/img/MoS2Actuator.gif" width="200" height="200" />
+
+Recently there has been great interests in utilizing thin elastic sheets for engineered materials. Foppl van Karman number vK=$YL^2/\kappa$, ratio between Young's modulus $Y$ multiply by system's dimensions $L^2$ and bending rigidity $\kappa$, is often used to characterized "thinness" or how easy the materials are to bend relative to stretching. For instance, an A4 paper has a very large vK and thus it is very easy to buckle--escape to the third dimensions. It turns out that by adding cuts to the thin sheet we can modify the mechanical properties. One of the prime examples is adding alternating periodic cuts, known as Kirigami cuts, onto the sheet to increase stretchability and reduce material's stifness. This approach has been widely applied to macro scale. Since we have a dimensionaless vK, in principle we should be able to observe similar effects at nanoscale. We indeed found that we use kirigami cuts to enhance stretchbility via molecular dynamics simulations. This improvment in materials' stretchbility has also been demonstrated experimentally in *one* atomically thin material graphene. 
+
+The out-of-plane buckling is one of key mechanism that prevent such thin materials to break. We then further investigate if we indeed can find a universal framework to understand buckling in thin sheets, ranging from macroscale to nanoscale. 
+
+
+
+
+
+***References***:
+
+<a href="http://pubs.rsc.org/-/content/articlehtml/2016/nr/c5nr06431g" style="color:#268cd7
+">[1] **P. Z. Hanakata**, Z. Qi, D. K. Campbell, H. S. Park, *Nanoscale*, 8, 458 (2016).</a>
+
+<a href="http://pubs.rsc.org/-/content/articlelanding/2017/sm/c7sm01693j/unauth#!divAbstract" style="color:#268cd7
+">[2]  M. A. Dias, M. P. McCarron, D. Rayneau-Kirkhope, **P. Z. Hanakata**, D. K. Campbell, H. S. Park, D. P. Holmes, *Soft Matter *, 13, 9087 (2017).</a>
