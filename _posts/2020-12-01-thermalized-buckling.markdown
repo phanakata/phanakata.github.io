@@ -7,8 +7,6 @@ image: /img/T0.05_buckled.gif
 author: Paul Hanakata
 ---
 #### Thermalized Euler Buckling 
-<img src="/img/T0.05_buckled.gif" width="200" height="200" />
-
 Recently there has been great interests in utilizing thin elastic sheets for engineered materials. Foppl van Karman number vK=$YL^2/\kappa$, ratio between Young's modulus $Y$ multiply by system's dimensions $L^2$ and bending rigidity $\kappa$, is often used to characterized "thinness" or how easy the materials are to bend relative to stretching. Many studies have shown that introducing alrtenating cuts, known as "kirigami cuts", can prevent failure as the sheet can buckle out of the plane and its joint components can bend in-plane like hinges. Under stretching thin elastic sheets will expereince compression in the direction perpendicular to the loading and we can think this as 1D Euler buckling problem.  In our previous work (see my other post or my paper[]), we indeed find a universality relationship betweenbuckling and compression from the macro to the nano scale. I want to nota in that work the nano sheets (graphene and MoS2) are stretched at a very low temperature 4.2 K. Most of mechanical devices (actuators) are working at room temperature 300K. It was found the bending rigidity (long wave length) of graphene increases by more than 1000 at room temperature due to thermal fluctuations. This  this bending stiffening is similar to how a perfectly smooth A4 paper sheet can easily bent (cannot hold its own weight), whereas flattened crumpled A4 paper with random corrugations can hold a pen!    I will address how temperature affects Euler buckling. 
 
 Here main takeaways of our findings:
