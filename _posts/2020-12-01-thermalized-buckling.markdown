@@ -3,7 +3,6 @@ layout: post
 title:  ""
 date:   2020-12-01 11:00:01
 categories: statistical mechanics 
-image: /img/T0.05_buckled.gif
 author: Paul Hanakata
 ---
 #### Thermalized Euler Buckling 
