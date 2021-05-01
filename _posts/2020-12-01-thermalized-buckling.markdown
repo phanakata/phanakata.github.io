@@ -2,12 +2,12 @@
 layout: post
 title:  ""
 date:   2020-12-01 11:00:01
-categories: kirigami
-image: /img/4actuators.jpg
+categories: statistical mechanics 
+image: /img/T0.05_buckled.gif
 author: Paul Hanakata
 ---
-##### Kirigami actuators 
-<img src="/img/MoS2Actuator.gif" width="200" height="200" />
+##### Thermalized Euler Buckling 
+<img src="/img/T0.05_buckled.gif" width="200" height="200" />
 
 Recently there has been great interests in utilizing thin elastic sheets for engineered materials. Foppl van Karman number vK=$YL^2/\kappa$, ratio between Young's modulus $Y$ multiply by system's dimensions $L^2$ and bending rigidity $\kappa$, is often used to characterized "thinness" or how easy the materials are to bend relative to stretching. For instance, an A4 paper has a very large vK and thus it is very easy to buckle--escape to the third dimensions. It turns out that by adding cuts to the thin sheet we can modify the mechanical properties. One of the prime examples is adding alternating periodic cuts, known as Kirigami cuts, onto the sheet to increase stretchability and reduce material's stifness. This approach has been widely applied to macro scale. Since we have a dimensionaless vK, in principle we should be able to observe similar effects at nanoscale. We indeed found that we use kirigami cuts to enhance stretchbility via molecular dynamics simulations. This improvment in materials' stretchbility has also been demonstrated experimentally in *one* atomically thin material graphene. 
 
