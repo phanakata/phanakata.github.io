@@ -3,6 +3,7 @@ layout: post
 title:  ""
 date:   2020-07-01 11:00:01
 categories: machinelearning
+image: /img/sae_schematic.png
 author: Paul Hanakata
 ---
 ##### Forward and inverse design for structural design via supervised autoencoder
