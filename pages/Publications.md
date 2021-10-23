@@ -6,9 +6,9 @@ permalink: /Publications/
 
 List of all publications can be found in my <a href="https://scholar.google.com/citations?user=52QtSLYAAAAJ&hl=en" style="color:red"> google scholar page  </a> 
 
-**Statisitcal physics of metamaterials and thermalized membranes**:\\
-<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.042006" style="color:#268cd7">[2] **Paul Z. Hanakata**, E. D. Cubuk, D. K. Campbell, H.S. Park, *Phys. Rev. Research*, 2, 042006(R) (2020).</a>\\
-<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.255304" style="color:#268cd7">[1] **Paul Z. Hanakata**, E. D. Cubuk, D. K. Campbell, H.S. Park, *Phys. Rev. Lett*, 121, 255304  (2018).</a>
+**Statisitcal physics of mechanical metamaterials and thermalized membranes**:\\
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352431621000602" style="color:#268cd7
+">[1] **P. Z. Hanakata**, S. S.  Bhabesh, M. J. Bowick, D. R. Nelson, D. Yllanes, "*Thermal buckling and symmetry breaking in thin ribbons under compression*", Extreme Mechanics Letters, 44, 101270 (2021).</a>
 
 **Machine learning**:\\
 <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.042006" style="color:#268cd7">[2] **Paul Z. Hanakata**, E. D. Cubuk, D. K. Campbell, H.S. Park, *Phys. Rev. Research*, 2, 042006(R) (2020).</a>\\
