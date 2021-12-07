@@ -9,7 +9,8 @@ permalink: /CV/
 
 ###### __Research Interests__
 
-*Condensed Matter Physics*
+*Hard and Soft Condensed Matter Physics*
+* Programmble metmaterials 
 * 2D materials beyond graphene 
 * Nonlinear mechanics in thermalized 2D membrane 
 * Kirigami and mechanical metamaterials 
@@ -50,5 +51,5 @@ University" , Boston University (2018-2019).
 * __Freeman Scholarship__, Wesleyan University (2010-2014).
 
 ###### __Services__
-Referee for Nature Computational Materials, Physical Review Letters, ACS Nano, Extreme Mechanics Letters, Physical Review B, Advanced Nanoscales, Nature Scientific Reports, and The Journal of Chemical Physics. 
+Referee for Nature Computational Materials, Physical Review Letters, PNAS, ACS Nano, Extreme Mechanics Letters, Physical Review B, Advanced Nanoscales, Nature Scientific Reports, and The Journal of Chemical Physics. 
 
