@@ -13,8 +13,12 @@ Another popular machine learning approach to generate new designs is generative 
 
 ###### Basic principles of sAE 
 An autoencoder (AE) consists of two parts: (i) an encoder $\mathcal{E}$ that maps a vector to a reduced representation and (ii) a decoder $\mathcal{D}$ that reconstructs a vector to its original representation from the reduced representation. The standard loss function of AE is
+
 $$\mathcal{L}^{\mathcal{X}}(\pmb{x},\pmb{x}')=\frac{1}{m}\sum_{i=1}^{m}|\pmb{x}^{(i)}-\pmb{x}'^{(i)}|^2=\frac{1}{m}\sum_{i=1}^{m}|\pmb{x}^{(i)}-\mathcal{D}(\mathcal{E}(\pmb{x}^{(i)}))|^2,$$
-where $\pmb{x}\in{\rm I\!R^n}=\mathcal{X}$ be the $n$-dimensional vector, and $\pmb{z}=(z_0, z_1, \cdots, z_{p-1})\in{\rm I\!R^p}=\mathcal{Z}$ be the $p$-dimensional latent variables. Since we want to prescribe a user chosen design to the networks, we modify the loss function by "inserting" materials' target properties into the latent space $$\mathcal{L}^{\mathcal{Y}}(\pmb{y}, \pmb{z})=\frac{1}{m}\sum_{i=1}^{m}|\pmb{z}^{(i)}-\pmb{y}^{(i)}|^2=\frac{1}{m}\sum_{i=1}^{m}\sum_{k=0}^{d-1}|z_k^{(i)}-y_k^{(i)}|^2.$$
+
+where $\pmb{x}\in{\rm R^n}=\mathcal{X}$ be the $n$-dimensional vector, and $\pmb{z}=(z_0, z_1, \cdots, z_{p-1})\in{\rm R^p}=\mathcal{Z}$ be the $p$-dimensional latent variables. Since we want to prescribe a user chosen design to the networks, we modify the loss function by "inserting" materials' target properties into the latent space 
+$$\mathcal{L}^{\mathcal{Y}}(\pmb{y}, \pmb{z})=\frac{1}{m}\sum_{i=1}^{m}|\pmb{z}^{(i)}-\pmb{y}^{(i)}|^2=\frac{1}{m}\sum_{i=1}^{m}\sum_{k=0}^{d-1}|z_k^{(i)}-y_k^{(i)}|^2.$$
+
 Specifically for our problem we use a 2D image of graphene with each pixel representing cut or no cut as the input vector $\pmb{x}$ and the target properties, ultimate stress and ultimate strain, as $\pmb{y}$. 
 
 ###### Main results 
