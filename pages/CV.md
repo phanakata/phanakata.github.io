@@ -10,14 +10,15 @@ permalink: /CV/
 ###### __Research Interests__
 
 *Hard and Soft Condensed Matter Physics*
-* Programmble metmaterials 
+* Programmable metmaterials 
+* Nanomachines
 * 2D materials beyond graphene 
 * Nonlinear mechanics in thermalized 2D membrane 
 * Kirigami and mechanical metamaterials 
 
 *Machine Learning*
-* Convolutional Neural Networks, Deep Learning
-* Generative Model 
+* Generative Model for Inverse Design 
+* Machine learning for phase transition and bifurcation problem 
 * Evolutionary Search 
 
 ###### __Education__
