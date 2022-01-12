@@ -6,13 +6,13 @@ permalink: /Publications/
 
 List of all publications can be found in my <a href="https://scholar.google.com/citations?user=52QtSLYAAAAJ&hl=en" style="color:red"> google scholar page  </a> 
 
-**Statisitcal physics of mechanical metamaterials and thermalized membranes**:\\
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352431621000602" style="color:#268cd7">[3] **P. Z. Hanakata**, Abigail Plummer, David R. Nelson, "*Anomalous thermal expansion in Ising-like puckered sheets,"*", Under review, #, # (2021).</a>
+**Statistical physics of mechanical metamaterials and thermalized membranes**:\\
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352431621000602" style="color:#268cd7">[3] **P. Z. Hanakata**, Abigail Plummer, David R. Nelson, "*Anomalous thermal expansion in Ising-like puckered sheets,"*", Under review in Physical Review Letters, #, # (2021).</a>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352431621000602" style="color:#268cd7">[1] **P. Z. Hanakata**, S. S.  Bhabesh, M. J. Bowick, D. R. Nelson, D. Yllanes, "*Thermal buckling and symmetry breaking in thin ribbons under compression*", Extreme Mechanics Letters, 44, 101270 (2021).</a>
 
 **Machine learning**:\\
-<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.042006" style="color:#268cd7">[3] Antonio E. Forte, **Paul Z. Hanakata**, Lishuai Jin, Emilia Zari, Ahmad Zareei, Matheus C. Fernandes, Laura Sumner, Jonathan Alvarez, Katia Bertoldi, , "*Inverse design of inflatable soft membranes through machine learning*", *Under review*, #, # (2021).</a>\\
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202111610" style="color:#268cd7">[3] Antonio E. Forte, **Paul Z. Hanakata**, Lishuai Jin, Emilia Zari, Ahmad Zareei, Matheus C. Fernandes, Laura Sumner, Jonathan Alvarez, Katia Bertoldi, , "*Inverse design of inflatable soft membranes through machine learning*", Advanced Functional Materials, 202111610, (2022).</a>\\
 <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.042006" style="color:#268cd7">[2] **Paul Z. Hanakata**, E. D. Cubuk, D. K. Campbell, H.S. Park, "*Forward and inverse design of kirigami via supervised autoencoder*", *Phys. Rev. Research*, 2, 042006(R) (2020).</a>\\
 <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.255304" style="color:#268cd7">[1] **Paul Z. Hanakata**, E. D. Cubuk, D. K. Campbell, H.S. Park, *Phys. Rev. Lett*, 121, 255304  (2018).</a>
 
