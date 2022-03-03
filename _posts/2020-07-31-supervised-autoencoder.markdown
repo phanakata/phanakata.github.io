@@ -31,12 +31,9 @@ Here are the main takeaways of our work:
 3. Using diversity metric we introduce a way to generate novel structures that are *different* from the training samples 
 
 ***References***:
-<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.042006" style="color:#268cd7
-">[w] **P. Z. Hanakata**, Ekin D. Cubuk, David K. Campbell, and Harold S. Park, *Phys. Rev. Research*, 2, 042006(R)  (2020).</a>
-<a href="https://arxiv.org/abs/1808.06111" style="color:#268cd7">
-<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.255304" style="color:#268cd7
-">[1] **P. Z. Hanakata**, Ekin D. Cubuk, David K. Campbell, and Harold S. Park, *Phys. Rev. Letter*, 121, 255304 (2018).</a>
-<a href="https://arxiv.org/abs/1808.06111" style="color:#268cd7">
+<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.042006" style="color:#268cd7">[2] **P. Z. Hanakata**, Ekin D. Cubuk, David K. Campbell, and Harold S. Park, "Forward and inverse design of kirigami via supervised autoencoder", *Phys. Rev. Research*, 2, 042006(R)  (2020).</a>\\
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.255304" style="color:#268cd7">[1] **P. Z. Hanakata**, Ekin D. Cubuk, David K. Campbell, and Harold S. Park, "Accelerated search and design of stretchable graphene kirigami using machine learning", *Phys. Rev. Letter*, 121, 255304 (2018).</a>
+
 
 
 Some of the analysis and TensorFlow codes are avalaible in my GitHub page: <a href="https://github.com/phanakata/ML_for_kirigami_design" style="color:#268cd7"> https://github.com/phanakata/ML_for_kirigami_design</a>
