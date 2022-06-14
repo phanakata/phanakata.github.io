@@ -6,7 +6,8 @@ permalink: /CV/
 For full CV (updated in June 2022) see [CV_PaulHanakata]({{site.baseurl}}../files/CV_PaulHanakata.pdf) 
 
 ###### __Current Position__
-* Postdoctoral Fellow working with David R. Nelson, Physics Department Harvard University
+* Postdoctoral Fellow working with <a href="https://www.physics.harvard.edu/people/facpages/nelson" style="color:#268cd7
+">David R. Nelson</a>, Physics Department Harvard University
 
 ###### __Research Interests__
 
