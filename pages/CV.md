@@ -27,12 +27,15 @@ For full CV (updated in June 2022) see [CV_PaulHanakata]({{site.baseurl}}../file
 
 __*Ph.D., Physics (2019)*__, Boston University, USA
 * *Dissertation:* [Studies of 2D Materials Beyond Graphene: From First-Principles to Machine Learning Approaches]({{site.baseurl}}../files/thesis_2DBeyondGraphene_PaulHanakata.pdf)
-* *First advisor:* David K. Campbell
-* *Second advisor:* Harold S. Park 
+* *First advisor:* <a href="http://physics.bu.edu/sites/campbell-group/" style="color:#268cd7
+">David K. Campbell</a>
+* *Second advisor:* <a href="https://people.bu.edu/parkhs/" style="color:#268cd7
+">Harold S. Park</a>
 
 __*B.A. in Physics (with high honors) and Mathematics  (2014)*__, Wesleyan University, USA
 * *Thesis:* [Cooperative Dynamics in Supported Polymer Films]({{site.baseurl}}../files/thesis_PolymerFilms_PaulHanakata.pdf)
-* *Advisor:* Francis W. Starr
+* *Advisor:* <a href="https://fstarr.faculty.wesleyan.edu/" style="color:#268cd7
+">Francis W. Starr</a>
 
 ###### __Awards__
 * __Gertrude and Maurice Goldhaber Prize__ in recognition of "outstanding achievement by a first-year graduate student", Department of Physics, Boston University (2015).
