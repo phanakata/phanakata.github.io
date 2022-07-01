@@ -3,7 +3,7 @@ layout: post
 title:  ""
 date:   2022-01-01 11:00:01
 categories: machine learning 
-image: /img/T0.05_buckled.gif
+image: /img/invMembrane/animals.png
 
 
 author: Paul Hanakata
@@ -12,10 +12,24 @@ author: Paul Hanakata
 Recenty there are many ongoing work on applying machine learning (ML) to mechanics, which primarily focus on predicting mechanial properties and stress-strain relationship. Here, we take ML furhter by applying it to design soft membranes. One direct application of our machine learning  design approach is for designing inflated membranes with specified contacts (i.e., 3D target shape) which is important for developing mechanotherapy devices. I am summarizing our findings below:
 
 We first showed that membranes with soft and stiff elements have non trivial shapes upon inflation. We then developed an FEM model to match the experiments and used the FEM simulations for training. Our goal is to map an inflated 3D shape onto 2D binary design+pressure.
+<table class="image" align="right">
+<caption align="bottom">{{ "<i> Similar to spin degree of freedom, valley degree of freedom can be used to store information.</i>" }}</caption>
+<tr><td><img src="/img/invMembrane/scars1.png" alt="Valley degree of freedom" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
+</table>
 
 We generated training samples using three classes of designs: Random (sparse and random), Islands (clusters of elements with same type), and Fibers (arrays of elements with same type). Because of symmetries we used reflection and rotation to get data points for free!
+<table class="image" align="right">
+<caption align="bottom">{{ "<i> Similar to spin degree of freedom, valley degree of freedom can be used to store information.</i>" }}</caption>
+<tr><td><img src="/img/invMembrane/training.png" alt="Valley degree of freedom" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
+</table>
+
 
 We found that model that is trained only with one class does not perform well when tested on a different class. This is not surprising yet, many, if not most, works on applying ML to mechanics use training samples with random microstructures.
+<table class="image" align="right">
+<caption align="bottom">{{ "<i> Similar to spin degree of freedom, valley degree of freedom can be used to store information.</i>" }}</caption>
+<tr><td><img src="/img/invMembrane/performance_diff_training.png" alt="Valley degree of freedom" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
+</table>
+
 
 As the design space is very large (2^100 in our case), it’d be hard to randomly sample *many* designs with arrays or clusters of the same element; this region consisting clusters/arrays of stiff/soft elements is where most interesting inflated 3D shapes reside.
 
