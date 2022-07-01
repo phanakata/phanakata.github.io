@@ -9,11 +9,25 @@ image: /img/T0.05_buckled.gif
 author: Paul Hanakata
 ---
 #### 
-Recenty there are many ongoing work on applying machine learning (ML) to mechanics, which primarily focus on predicting mechanial properties and stress-strain relationship. Here, we take ML furhter by applying it to design soft membranes. 
+Recenty there are many ongoing work on applying machine learning (ML) to mechanics, which primarily focus on predicting mechanial properties and stress-strain relationship. Here, we take ML furhter by applying it to design soft membranes. One direct application of our machine learning  design approach is for designing inflated membranes with specified contacts (i.e., 3D target shape) which is important for developing mechanotherapy devices. I am summarizing our findings below:
 
+We first showed that membranes with soft and stiff elements have non trivial shapes upon inflation. We then developed an FEM model to match the experiments and used the FEM simulations for training. Our goal is to map an inflated 3D shape onto 2D binary design+pressure.
 
-Recently there has been great interests in utilizing thin elastic sheets for engineered materials. Foppl van Karman number vK=$YL^2/\kappa$, ratio between Young's modulus $Y$ multiply by system's dimensions $L^2$ and bending rigidity $\kappa$, is often used to characterized "thinness" or how easy the materials are to bend relative to stretching. Many studies have shown that introducing altrenating cuts, known as "kirigami cuts", can prevent failure as the sheet can buckle out of the plane and its joint components can bend in-plane like hinges. Under stretching thin elastic sheets will experience compression in the direction perpendicular to the loading and we can think this as a 1D Euler buckling problem.  In our previous work (see my other  <a href="https://phanakata.github.io/kirigami/2017/08/29/kirigami.html" style="color:#268cd7
-">post</a>  or my paper <span style="color:#268cd7"> [2]</span>), we indeed find a universality relationship between buckling and stretching (compression perpendicular to loading) of thin elastic sheets with a single slit from the macro (cm size) to nano scale. I want to note in that work <span style="color:#268cd7"> [2]</span> the nano sheets (graphene and MoS2) are stretched at a very low temperature 4.2 K. Most of mechanical devices (actuators) are working preferably at room temperature 300 K. It was found that the bending rigidity (at long wave length) of graphene increases by more than 1000 at room temperature relative to its zero temperature value due to thermal fluctuations. This bending stiffening is similar to how a perfectly smooth A4 paper sheet can easily bent (cannot hold its own weight), whereas a flattened crumpled A4 paper with random corrugations can hold a pen! In this work I will address how temperature affects Euler buckling using mean field theory and tested on molecular dynamics similations.
+We generated training samples using three classes of designs: Random (sparse and random), Islands (clusters of elements with same type), and Fibers (arrays of elements with same type). Because of symmetries we used reflection and rotation to get data points for free!
+
+We found that model that is trained only with one class does not perform well when tested on a different class. This is not surprising yet, many, if not most, works on applying ML to mechanics use training samples with random microstructures.
+
+As the design space is very large (2^100 in our case), it’d be hard to randomly sample *many* designs with arrays or clusters of the same element; this region consisting clusters/arrays of stiff/soft elements is where most interesting inflated 3D shapes reside.
+
+Our approach, in someway, *boosts* the performance in the area of interest without the need to sample more using the random class. So it's important to have a good sampling!
+
+Having trained our model with all classes, we are able to predict binary designs and pressures. We used some animal shapes to test our ML and we validated the inflated shapes by FEM simulations and experiments.
+
+Finally, we showed that our design approach can be used for designing soft membranes with specified contacts. This is important for developing mechanotherapy devices where we want to avoid contact around scars.
+
+We have put lots of details in the supplementary for people who are interested in learning about the materials fabrication, finite element simulation methods, machine learning model, or the algorithms to generate island and fiber classes.
+
+This work is in collaboration with Katia Bertoldi's group.
 
 
 
