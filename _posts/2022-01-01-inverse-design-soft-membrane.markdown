@@ -4,11 +4,9 @@ title:  ""
 date:   2022-01-01 11:00:01
 categories: machine learning 
 image: /img/invMembrane/animals.png
-
-
 author: Paul Hanakata
 ---
-#### 
+#### Inverse design via machine learning
 Recenty there are many ongoing work on applying machine learning (ML) to mechanics, which primarily focus on predicting mechanial properties and stress-strain relationship. Here, we take ML furhter by applying it to design soft membranes. One direct application of our machine learning  design approach is for designing inflated membranes with specified contacts (i.e., 3D target shape) which is important for developing mechanotherapy devices. I am summarizing our findings below:
 
 We first showed that membranes with soft and stiff elements have non trivial shapes upon inflation. We then developed an FEM model to match the experiments and used the FEM simulations for training. Our goal is to map an inflated 3D shape onto 2D binary design+pressure.
