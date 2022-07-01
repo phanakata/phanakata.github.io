@@ -25,6 +25,11 @@ We generated training samples using three classes of designs: Random (sparse and
 
 
 We found that model that is trained only with one class does not perform well when tested on a different class. This is not surprising yet, many, if not most, works on applying ML to mechanics use training samples with random microstructures.
+<table class="image" align="right">
+<caption align="bottom">{{ "<i> Similar to spin degree of freedom, valley degree of freedom can be used to store information.</i>" }}</caption>
+<tr><td><img src="/img/invMembrane/performance_diff_training.png" alt="Valley degree of freedom" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
+</table>
+
 
 As the design space is very large (2^100 in our case), it’d be hard to randomly sample *many* designs with arrays or clusters of the same element; this region consisting clusters/arrays of stiff/soft elements is where most interesting inflated 3D shapes reside.
 
