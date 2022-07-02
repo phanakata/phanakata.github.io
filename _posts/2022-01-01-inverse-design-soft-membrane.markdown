@@ -10,6 +10,13 @@ author: Paul Hanakata
 Recenty there are many ongoing work on applying machine learning (ML) to mechanics, which primarily focus on predicting mechanial properties and stress-strain relationship. Here, we take ML furhter by applying it to design soft membranes. One direct application of our machine learning  design approach is for designing inflated membranes with specified contacts (i.e., 3D target shape) which is important for developing mechanotherapy devices. 
 <img src="/img/invMembrane/scars1.png" width="50" height="50" />
 
+<table class="image" align="center">
+<caption align="bottom">{{ "<i></i>" }}</caption>
+<tr><td><img src="/img/scars1.png" alt="Valley degree of freedom" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
+</table>
+
+
+
 I am summarizing our findings below:
 
 We first showed that membranes with soft and stiff elements have non trivial shapes upon inflation. We then developed an FEM model to match the experiments and used the FEM simulations for training. Our goal is to map an inflated 3D shape onto 2D binary design+pressure.
