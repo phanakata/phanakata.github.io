@@ -12,7 +12,7 @@ Recenty there are many ongoing work on applying machine learning (ML) to mechani
 
 <table class="image" align="center">
 <caption align="bottom">{{ "<i></i>" }}</caption>
-<tr><td><img src="/img/scars1.png" alt="Valley degree of freedom" description="Drawing" style="width: 300px; max-width:100%;"/></td></tr>
+<tr><td><img src="/img/scars1.png" alt="Valley degree of freedom" description="Drawing" style="width: 300px; max-width:50%;"/></td></tr>
 </table>
 
 
