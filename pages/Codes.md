@@ -20,6 +20,6 @@ permalink: /Codes/
 * Python and tensorflow code to search optimal design
 * To download `git clone https://github.com/phanakata/ML_for_kirigami_design.git`
 
-#### <a href="https://github.com/phanakata/tight-binding" style="color:#268cd7"> tight-gefyra </a>
+#### <a href="https://github.com/phanakata/tight-binding" style="color:#268cd7"> tight-binding </a>
 * Python code to calculate electronic properties of graphene via tight-binding
 * To download `git clone https://github.com/phanakata/tight-binding.git`
