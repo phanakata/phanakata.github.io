@@ -22,7 +22,7 @@ permalink: /Codes/
 * Python and C++ codes to analyze data
 * To download `git clone https://github.com/phanakata/statistical-mechanics-of-thin-materials.git`
 
-## Electronic calculations 
+## Mechano-electronic calculations 
 #### <a href="https://github.com/phanakata/tight-binding" style="color:#268cd7"> tight-binding </a>
 * Python code to calculate electronic properties of graphene via tight-binding
 * To download `git clone https://github.com/phanakata/tight-binding.git`
