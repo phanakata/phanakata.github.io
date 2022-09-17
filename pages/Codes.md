@@ -10,7 +10,7 @@ permalink: /Codes/
 * Python and C++ codes to analyze data
 * To download `git clone https://github.com/phanakata/programmable-matter.git`
 
-#### <a href="https://github.com/phanakata/statistical-mechanics-of-thin-sheets" style="color:#268cd7"> Scientific package to study statistical mechanics of thermalized thin sheets (e.g., graphene and nanotubes) </a>
+#### <a href="https://github.com/phanakata/statistical-mechanics-of-thin-materials" style="color:#268cd7"> Scientific package to study statistical mechanics of thermalized thin sheets (e.g., graphene and nanotubes) </a>
 * HOOMD script to simulate thermalized membranes
 * Python and C++ codes to analyze data
 * To download `git clone https://github.com/phanakata/statistical-mechanics-of-thin-sheets.git`
