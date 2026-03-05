@@ -1,0 +1,237 @@
+/* ── Variables ─────────────────────────────────────────── */
+:root {
+  --bg:        #0d1117;
+  --surface:   #161b22;
+  --border:    #30363d;
+  --text:      #e6edf3;
+  --muted:     #8b949e;
+  --accent:    #58a6ff;
+  --accent-dim:#1f6feb33;
+  --radius:    8px;
+  --max-w:     800px;
+}
+
+/* ── Reset ─────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+/* ── Layout ────────────────────────────────────────────── */
+.container {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+section {
+  padding: 3.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+section:last-of-type { border-bottom: none; }
+
+h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+}
+
+/* ── Header ────────────────────────────────────────────── */
+#header {
+  padding: 4rem 0 3rem;
+  border-bottom: 1px solid var(--border);
+}
+
+#header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+}
+
+.nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  list-style: none;
+}
+
+.nav-links a {
+  font-size: 0.9rem;
+  color: var(--muted);
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: color 0.15s;
+}
+.nav-links a:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* ── About ─────────────────────────────────────────────── */
+#about p {
+  color: var(--text);
+  margin-bottom: 1.5rem;
+  max-width: 680px;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.chip {
+  background: var(--accent-dim);
+  color: var(--accent);
+  border: 1px solid #1f6feb;
+  border-radius: 999px;
+  padding: 0.2rem 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+/* ── Project cards ─────────────────────────────────────── */
+.cards {
+  display: grid;
+  gap: 1rem;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.6rem;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 1px var(--accent);
+}
+
+.card-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.card h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.card-link {
+  font-size: 0.8rem;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.15rem 0.6rem;
+  transition: border-color 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+.card-link:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.card p {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-bottom: 0.9rem;
+}
+
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.tag {
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.1rem 0.5rem;
+  font-size: 0.75rem;
+}
+
+/* ── Papers ────────────────────────────────────────────── */
+#papers ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+}
+
+#papers li {
+  padding-left: 1.1rem;
+  position: relative;
+  font-size: 0.92rem;
+}
+#papers li::before {
+  content: '–';
+  position: absolute;
+  left: 0;
+  color: var(--muted);
+}
+
+.paper-year {
+  color: var(--muted);
+  font-size: 0.8rem;
+  margin-right: 0.4rem;
+}
+
+.paper-title {
+  color: var(--text);
+}
+
+.paper-venue {
+  color: var(--muted);
+  font-style: italic;
+  font-size: 0.85rem;
+}
+
+.paper-link {
+  font-size: 0.8rem;
+  margin-left: 0.4rem;
+}
+
+/* ── Footer ────────────────────────────────────────────── */
+footer {
+  padding: 2rem 0;
+  text-align: center;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+footer a { color: var(--muted); }
+footer a:hover { color: var(--accent); }
+footer span { margin: 0 0.5rem; }
+
+/* ── Responsive ────────────────────────────────────────── */
+@media (max-width: 600px) {
+  #header h1 { font-size: 1.5rem; }
+  section { padding: 2.5rem 0; }
+  .card-header { flex-direction: column; align-items: flex-start; }
+}

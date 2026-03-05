@@ -1,96 +1,175 @@
----
-layout: default
----
-<div class="page-content">
-  <div class="mdl-grid">
-  {% if site.post_type == 'highlight' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Paul Hanakata</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
 
-    {% for post in site.posts %}
-    {% if post.highlight %}
-
-    <div class="section-highlight section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
-
-      <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone" {% if post.image %} style="background: url('{{ post.image }}') center/cover;" {% endif %}></header>
-
-      <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
-        <div class="mdl-card__supporting-text">
-          <h4>{{ post.title }}</h4>
-          <p>{{ post.excerpt }}</p>
-        </div>
-        <div class="mdl-card__actions">
-          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-        </div>
-      </div>
-
-      <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn-high-{{ post.id }}">
-        <i class="material-icons">more_vert</i>
-      </button>
-      <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="btn-high-{{ post.id }}">
-        <li><a href="https://www.facebook.com/dialog/share?app_id={{site.facebook_app_id}}&display=page&href={{ post.url | prepend: site.baseurl }}&redirect_uri={{ site.baseurl }}" class="mdl-menu__item">Facebook</a></li>
-        <li><a href="https://twitter.com/share?url={{ post.url | prepend: site.baseurl }}&text={{ post.title }}&via={{ site.twitter_username }}" class="mdl-menu__item">Twitter</a></li>
-        <li><a href="https://plus.google.com/share?url={{ post.url | prepend: site.baseurl }}" class="mdl-menu__item">Google+</a></li>
-      </ul>
-
-    </div>
-
-    {% else %}
-
-    <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-desktop mdl-cell--4-col-tablet mdl-cell--12-col-phone">
-      <div class="mdl-card__title" {% if post.image %} style="background: url('{{ post.image }}') center/cover;" {% endif %}>
-        <h2 class="mdl-card__title-text">{{ post.title }}</h2>
-      </div>
-      <div class="mdl-card__supporting-text">
-        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-        <p>{{ post.excerpt }}</p>
-      </div>
-      <div class="mdl-card__actions mdl-card--border">
-        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-      </div>
-      <div class="mdl-card__menu">
-        <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect" id="post-{{ post.id }}">
-          <i class="material-icons">share</i>
-        </button>
-        <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="post-{{ post.id }}">
-          <li><a href="https://www.facebook.com/dialog/share?app_id={{site.facebook_app_id}}&display=page&href={{ post.url | prepend: site.baseurl }}&redirect_uri={{ site.baseurl }}" class="mdl-menu__item">Facebook</a></li>
-          <li><a href="https://twitter.com/share?url={{ post.url | prepend: site.baseurl }}&text={{ post.title }}&via={{ site.twitter_username }}" class="mdl-menu__item">Twitter</a></li>
-          <li><a href="https://plus.google.com/share?url={{ post.url | prepend: site.baseurl }}" class="mdl-menu__item">Google+</a></li>
-        </ul>
-      </div>
-    </div>
-    {% endif %}
-    {% endfor %}
-
-  {% else %}
-
-    {% for post in site.posts %}
-
-    <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-desktop mdl-cell--4-col-tablet  mdl-cell--12-col-phone">
-      <div class="mdl-card__title" {% if post.image %} style="background: url('{{ post.image }}') center/cover;" {% endif %}>
-        <h2 class="mdl-card__title-text">{{ post.title }}</h2>
-      </div>
-      <div class="mdl-card__supporting-text">
-        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-        <p>{{ post.excerpt }}</p>
-      </div>
-      <div class="mdl-card__actions mdl-card--border">
-        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{ post.url | prepend: site.baseurl }}">
-          Read More
-        </a>
-      </div>
-      <div class="mdl-card__menu">
-        <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect" id="post-{{ post.id }}">
-          <i class="material-icons">share</i>
-        </button>
-        <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="post-{{ post.id }}">
-          <li><a href="https://www.facebook.com/dialog/share?app_id={{site.facebook_app_id}}&display=page&href={{ post.url | prepend: site.baseurl }}&redirect_uri={{ site.baseurl }}" class="mdl-menu__item">Facebook</a></li>
-          <li><a href="https://twitter.com/share?url={{ post.url | prepend: site.baseurl }}&text={{ post.title }}&via={{ site.twitter_username }}" class="mdl-menu__item">Twitter</a></li>
-          <li><a href="https://plus.google.com/share?url={{ post.url | prepend: site.baseurl }}" class="mdl-menu__item">Google+</a></li>
-        </ul>
-      </div>
-    </div>
-
-    {% endfor %}
-
-  {% endif %}
+<!-- ── Header ──────────────────────────────────────────── -->
+<header id="header">
+  <div class="container">
+    <h1>Paul Hanakata</h1>
+    <ul class="nav-links">
+      <li><a href="https://github.com/phanakata" target="_blank" rel="noopener">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.014-1.703-2.782.604-3.369-1.342-3.369-1.342-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
+        GitHub
+      </a></li>
+      <li><a href="https://www.linkedin.com/in/phanakata" target="_blank" rel="noopener">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+        LinkedIn
+      </a></li>
+      <li><a href="mailto:phanakata@gmail.com">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+        Email
+      </a></li>
+      <li><a href="https://phanakata.github.io/research" target="_blank" rel="noopener">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+        Old Research Page
+      </a></li>
+    </ul>
   </div>
-</div>
+</header>
+
+<!-- ── About ────────────────────────────────────────────── -->
+<section id="about">
+  <div class="container">
+    <h2>About</h2>
+    <p>
+      I'm a software consultant with a background in statistical physics,
+      materials simulation, and deep learning. My research applied neural networks to inverse design problems in 2D materials — finding patterns where classical methods
+      couldn't scale. Now I build practical ML systems: pipelines, multi-agent frameworks, and
+      production-grade models.
+    </p>
+    <div class="chips">
+      <span class="chip">Python</span>
+      <span class="chip">PyTorch</span>
+      <span class="chip">TensorFlow</span>
+      <span class="chip">pandas</span>
+      <span class="chip">scikit-learn</span>
+      <span class="chip">Kubernetes</span>
+      <span class="chip">SQL</span>
+    </div>
+  </div>
+</section>
+
+<!-- ── Projects ─────────────────────────────────────────── -->
+<section id="projects">
+  <div class="container">
+    <h2>Recent Projects</h2>
+    <div class="cards">
+
+      <article class="card">
+        <div class="card-header">
+          <h3>multi-agent</h3>
+          <a class="card-link" href="https://github.com/phanakata/multi-agent" target="_blank" rel="noopener">View on GitHub ↗</a>
+        </div>
+        <p>Local multi-agent orchestration framework with sandboxed tool execution. Agents collaborate on tasks using locally-hosted LLMs — no cloud dependency.</p>
+        <div class="tag-list">
+          <span class="tag">Python</span>
+          <span class="tag">Ollama</span>
+          <span class="tag">multi-agent</span>
+          <span class="tag">LLM</span>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-header">
+          <h3>ad-targeting-ml</h3>
+          <a class="card-link" href="https://github.com/phanakata/ad-targeting-ml" target="_blank" rel="noopener">View on GitHub ↗</a>
+        </div>
+        <p>End-to-end ML pipeline for ad targeting: feature engineering, model training, evaluation, and serving — structured for production deployment.</p>
+        <div class="tag-list">
+          <span class="tag">Python</span>
+          <span class="tag">scikit-learn</span>
+          <span class="tag">pandas</span>
+          <span class="tag">ML pipeline</span>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-header">
+          <h3>ML_for_kirigami_design</h3>
+          <a class="card-link" href="https://github.com/phanakata/ML_for_kirigami_design" target="_blank" rel="noopener">View on GitHub ↗</a>
+        </div>
+        <p>Deep learning for inverse design of 2D kirigami metamaterials. Neural networks predict cut patterns that achieve target mechanical properties — replacing expensive FEM sweeps.</p>
+        <div class="tag-list">
+          <span class="tag">Python</span>
+          <span class="tag">TensorFlow</span>
+          <span class="tag">inverse design</span>
+          <span class="tag">materials science</span>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+<!-- ── Papers ───────────────────────────────────────────── -->
+<section id="papers">
+  <div class="container">
+    <h2>ML Research / Papers</h2>
+    <ul>
+
+      <li>
+        <span class="paper-year">2022</span>
+        <span class="paper-title">Predicting and Designing Nanomaterial Properties: Soft Membranes and Mechanotherapy</span>
+        <span class="paper-venue">— <em>Advanced Materials</em></span>
+        <a class="paper-link" href="https://doi.org/10.1002/adma.202200693" target="_blank" rel="noopener">[DOI]</a>
+      </li>
+
+      <li>
+        <span class="paper-year">2020</span>
+        <span class="paper-title">Machine Learning for Stretchable Graphene Kirigami via Reinforcement Learning</span>
+        <span class="paper-venue">— <em>npj Computational Materials</em></span>
+        <a class="paper-link" href="https://doi.org/10.1038/s41524-020-00381-x" target="_blank" rel="noopener">[DOI]</a>
+      </li>
+
+      <li>
+        <span class="paper-year">2018</span>
+        <span class="paper-title">2D Ferroelectric Rashba Lead Chalcogenides</span>
+        <span class="paper-venue">— <em>Physical Review Letters</em></span>
+        <a class="paper-link" href="https://doi.org/10.1103/PhysRevLett.121.227701" target="_blank" rel="noopener">[DOI]</a>
+      </li>
+
+      <li>
+        <span class="paper-year">2016</span>
+        <span class="paper-title">Valley and Ferroelectric Switching in Monochalcogenides</span>
+        <span class="paper-venue">— <em>Physical Review Letters</em></span>
+        <a class="paper-link" href="https://doi.org/10.1103/PhysRevLett.116.087701" target="_blank" rel="noopener">[DOI]</a>
+      </li>
+
+      <li>
+        <span class="paper-year">2020</span>
+        <span class="paper-title">Kirigami Actuators</span>
+        <span class="paper-venue">— <em>Soft Matter</em></span>
+        <a class="paper-link" href="https://doi.org/10.1039/D0SM00122H" target="_blank" rel="noopener">[DOI]</a>
+      </li>
+
+      <li>
+        <span class="paper-year">2015</span>
+        <span class="paper-title">Cooperative Dynamics in Glass-Forming Liquids</span>
+        <span class="paper-venue">— <em>Physical Review E</em></span>
+        <a class="paper-link" href="https://doi.org/10.1103/PhysRevE.92.062316" target="_blank" rel="noopener">[DOI]</a>
+      </li>
+
+    </ul>
+  </div>
+</section>
+
+<!-- ── Footer ───────────────────────────────────────────── -->
+<footer>
+  <div class="container">
+    <a href="https://phanakata.github.io/research" target="_blank" rel="noopener">Old research site (archive)</a>
+    <span>·</span>
+    Built with plain HTML/CSS
+  </div>
+</footer>
+
+</body>
+</html>
